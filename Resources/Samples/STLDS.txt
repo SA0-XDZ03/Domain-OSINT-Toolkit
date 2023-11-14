@@ -1,0 +1,8 @@
+gov
+net
+nic
+army
+mil
+co
+security
+secure
